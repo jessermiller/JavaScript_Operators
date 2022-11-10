@@ -30,12 +30,12 @@ let firstName = "Frodo";
 let lastName = "Baggins";
 ```
 
-- What is the value of: num + str?
-- What is the value of: num + str2?
-- What is the value of: num + isPresent?
-- What is the value of: firstName + num?
-- What is the value of: isPresent + str?
-- What is the value of: firstName + lastName?
+- What is the value of: num + str?                        Answer: 1111 it concatanizes it.
+- What is the value of: num + str2?                       Answer: 11eleven
+- What is the value of: num + isPresent?                  Answer: 12
+- What is the value of: firstName + num?                  Answer: Frodo11
+- What is the value of: isPresent + str?                  Answer: true11
+- What is the value of: firstName + lastName?             Answer: FrodoBaggins
 
 Use the code above to test and print the results.
 
@@ -50,14 +50,14 @@ let str4 = "five";
 let isAwake = false;
 ```
 
-- What is the value of: val == str3?
-- What is the value of: val === str3?
-- What is the value of: !isAwake?
-- What is the value of: ("eleven" == str4 && val >= str3)?
-- What is the value of: (!isAwake || isAwake)?
-- What is the value of: 0 == false?
-- What is the value of: 0 === false?
-- What is the value of: 0 != false?
-- What is the value of 0 !== false?
+- What is the value of: val == str3?                        Answer: true
+- What is the value of: val === str3?                       Answer: false
+- What is the value of: !isAwake?                           Answer: true
+- What is the value of: ("eleven" == str4 && val >= str3)?  Answer: false
+- What is the value of: (!isAwake || isAwake)?              Answer: true
+- What is the value of: 0 == false?                         Answer: true
+- What is the value of: 0 === false?                        Answer: false
+- What is the value of: 0 != false?                         Answer: false
+- What is the value of 0 !== false?                         Answer: true
 
 Use the code above to test and print the results.
